@@ -11,7 +11,7 @@
     "yii2"
   ],
   "author": "Pasechnik Vladislav <jumper423@bong.run>",
-  "homepage": "https://github.com/bong-run/angular-2-yii",
+  "homepage": "https://github.com/bongrun/angular-2-yii",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack --config config/webpack.dev.js --progress --profile",
@@ -66,10 +66,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bong-run/angular-2-yii.git"
+    "url": "https://github.com/bongrun/angular-2-yii.git"
   },
   "bugs": {
-    "url": "https://github.com/bong-run/angular-2-yii/issues"
+    "url": "https://github.com/bongrun/angular-2-yii/issues"
   },
   "engines": {
     "node": ">= 4.2.1",
