@@ -62,7 +62,7 @@
     "webpack": "webpack"
   },
   "dependencies": {
-    "angular2-webpack-starter": "^1.0.0"
+    "angular2-webpack-starter": "git://github.com/AngularClass/angular2-webpack-starter.git#2f614b4"
   },
   "repository": {
     "type": "git",
